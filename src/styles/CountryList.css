@@ -1,0 +1,25 @@
+.Weather-icon{
+  width:30px;
+  margin-right:20px;
+}
+
+.countryList{
+  height:30vh;
+  overflow: hidden;
+  overflow-Y: scroll;
+  list-style-type: none;
+  line-height: 25px;
+    clip: rect( 0, 250px, 125px, 0 );
+}
+
+input{
+  text-transform: capitalize;
+  background: transparent;
+  border: solid 2px #eceeef;
+  border-radius: 30px;
+  font-size: 10px;
+    text-transform: uppercase;
+  padding:10px;
+  color: white;
+  outline: none;
+}

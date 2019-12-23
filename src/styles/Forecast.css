@@ -1,0 +1,14 @@
+.forecastWeatherIcon{
+  width:40px;
+  height:40px;
+  margin-left:20px;
+}
+.forecastList{
+  list-style-type:none;
+  text-align: left;
+  padding:0px;
+}
+
+.vertical-center{
+  line-height: 40px;
+}
