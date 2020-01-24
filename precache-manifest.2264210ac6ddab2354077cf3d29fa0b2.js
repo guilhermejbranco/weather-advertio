@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0a23b026ab773195b0378f89e6a9e086",
+    "revision": "cdb4d1cf229a57b33fe0c184f00b13a0",
     "url": "/weather-advertio/index.html"
   },
   {
-    "revision": "e0f72e3d8656be63b426",
+    "revision": "06cf1958ae4e147fff0a",
     "url": "/weather-advertio/static/css/main.5ee6c206.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/weather-advertio/static/js/2.ebe49fa7.chunk.js.LICENSE"
   },
   {
-    "revision": "e0f72e3d8656be63b426",
-    "url": "/weather-advertio/static/js/main.027c0396.chunk.js"
+    "revision": "06cf1958ae4e147fff0a",
+    "url": "/weather-advertio/static/js/main.0a295aae.chunk.js"
   },
   {
     "revision": "6dedce52fa1ec4158de5",

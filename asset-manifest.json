@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/weather-advertio/static/css/main.5ee6c206.chunk.css",
-    "main.js": "/weather-advertio/static/js/main.027c0396.chunk.js",
-    "main.js.map": "/weather-advertio/static/js/main.027c0396.chunk.js.map",
+    "main.js": "/weather-advertio/static/js/main.0a295aae.chunk.js",
+    "main.js.map": "/weather-advertio/static/js/main.0a295aae.chunk.js.map",
     "runtime-main.js": "/weather-advertio/static/js/runtime-main.7beae0df.js",
     "runtime-main.js.map": "/weather-advertio/static/js/runtime-main.7beae0df.js.map",
     "static/js/2.ebe49fa7.chunk.js": "/weather-advertio/static/js/2.ebe49fa7.chunk.js",
     "static/js/2.ebe49fa7.chunk.js.map": "/weather-advertio/static/js/2.ebe49fa7.chunk.js.map",
     "index.html": "/weather-advertio/index.html",
-    "precache-manifest.64941756d3db1798dd89bb1abc095f9d.js": "/weather-advertio/precache-manifest.64941756d3db1798dd89bb1abc095f9d.js",
+    "precache-manifest.2264210ac6ddab2354077cf3d29fa0b2.js": "/weather-advertio/precache-manifest.2264210ac6ddab2354077cf3d29fa0b2.js",
     "service-worker.js": "/weather-advertio/service-worker.js",
     "static/css/main.5ee6c206.chunk.css.map": "/weather-advertio/static/css/main.5ee6c206.chunk.css.map",
     "static/js/2.ebe49fa7.chunk.js.LICENSE": "/weather-advertio/static/js/2.ebe49fa7.chunk.js.LICENSE",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.7beae0df.js",
     "static/js/2.ebe49fa7.chunk.js",
     "static/css/main.5ee6c206.chunk.css",
-    "static/js/main.027c0396.chunk.js"
+    "static/js/main.0a295aae.chunk.js"
   ]
 }
