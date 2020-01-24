@@ -43,7 +43,7 @@ class Forecast extends React.Component {
   getWeather() {
     let unit = this.props.data.fahrenheit ? "imperial" : "metric";
     fetch(
-      "http://api.openweathermap.org/data/2.5/forecast?q=" +
+      "https://api.openweathermap.org/data/2.5/forecast?q=" +
         this.props.data.city +
         "&units=" +
         unit +
